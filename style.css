@@ -4,3 +4,13 @@
 body{
 	background: radial-gradient(aqua, pink, aquamarine);
 }
+p{
+	font-size: 30px;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	box-sizing: border-box;
+	border: dashed 3px black;
+	letter-spacing: 2px;
+	padding: 3px 10px;
+	display: inline-block;
+	position: relative;
+}
